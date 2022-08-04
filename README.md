@@ -6,6 +6,7 @@ For the methodology and results, see [Report.pdf](Project%207%20-%20Password%20C
 
 For the implementation, see [main.py](main.py).
 
+Not included is the rockyou.txt file (of cracked passwords).
 
 ## Commands
 
